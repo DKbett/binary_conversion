@@ -1,5 +1,5 @@
 
-va code mainly lets user convert integers from decimal numbers to either binary or octal or hexadecimal numbers. It does so by using a switch statement that does the various conversions.
+This Java code mainly lets user convert integers from decimal numbers to either binary or octal or hexadecimal numbers. It does so by using a switch statement that does the various conversions.
 
 ## Dependency Management
 
